@@ -1,0 +1,6 @@
+{"name":"foo","_id":"XtaZM2aKIA5lrGTk"}
+{"name":"curl","_id":"RhPC4glo8DxlyUoV"}
+{"name":"fizz","_id":"XtaZM2aKIA5lrGTk"}
+{"foo":"bar","_id":"XtaZM2aKIA5lrGTk"}
+{"name":"fizz","foo":"bar","_id":"XtaZM2aKIA5lrGTk"}
+{"$$deleted":true,"_id":"XtaZM2aKIA5lrGTk"}
